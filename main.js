@@ -89,7 +89,7 @@ function createEngineWindow1() {
     engineWindow1 = new BrowserWindow({
       show: false,
       resizable: false,
-      width: 391,
+      width: 900,
       height: 588,
       title: 'Engine 1',
       webPreferences: {
